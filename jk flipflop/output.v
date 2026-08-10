@@ -1,0 +1,10 @@
+Time=0 | J=0 K=0 | Q=x
+Time=5 | J=0 K=0 | Q=x
+Time=10 | J=0 K=0 | Q=x
+Time=15 | J=1 K=0 | Q=1
+Time=20 | J=0 K=1 | Q=1
+Time=25 | J=0 K=1 | Q=0
+Time=30 | J=1 K=1 | Q=0
+Time=35 | J=1 K=1 | Q=1
+Time=40 | J=1 K=1 | Q=1
+Time=45 | J=1 K=1 | Q=0
